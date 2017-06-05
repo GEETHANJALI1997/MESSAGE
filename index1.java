@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class index
+class index1
 {
     public static void main(String args[])
     {   
