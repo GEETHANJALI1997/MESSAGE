@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class revint1
+class reversedigit
 {
     public static void main(String args[])
     {
