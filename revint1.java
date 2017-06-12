@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class revint
+class revint1
 {
     public static void main(String args[])
     {
