@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class reversedigit
+class redigit
 {
     public static void main(String args[])
     {
