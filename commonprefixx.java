@@ -27,23 +27,22 @@ class commonprefix
        
      { if(me[ma].startsWith(minvar))
       {
-          count++;
-      }
-      if(count==min)
-      {
-          System.out.print("longest prefix"+minvar);
+          count=1;
       }
       else
       {
           sub=minvar.substring(0,min-1);
           minvar=sub;
-      }}
+      }}if(count==1)
+      {
+          System.out.print("longest prefix="+minvar);
+      }
       
-   if(count!=min)
+   if(count==0)
       {
           System.out.print("no common prefix");
       }
+     
       
     }
 }
-
