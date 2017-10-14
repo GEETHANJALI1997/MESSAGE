@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Hunter_55
+class Hunter_51
 {
     public static void main(String args[])
     {
